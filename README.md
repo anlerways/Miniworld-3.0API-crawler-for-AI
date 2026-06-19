@@ -4,6 +4,16 @@
 > **本资源完全免费，收费是被骗了！**
 > —— BY TEMP AXIS
 
+---
+
+## 📥 获取最新API资源
+
+- **所有提示词和文档** 均已放在本仓库，克隆或直接下载即可：
+  ```bash
+  git clone https://github.com/anlerways/Miniworld-3.0API-crawler-for-AI.git
+  ```
+- **打包文件**：前往 [Releases](https://github.com/anlerways/Miniworld-3.0API-crawler-for-AI/releases) 下载最新版资源，无需安装 Python。
+
 ## 🚀 项目说明
 
 本工具从 [迷你世界 UGC 3.0 官方 Wiki](https://dev-wiki.mini1.cn/ugc-wiki/) 自动爬取所有 API 函数和枚举常量，生成结构化的 Markdown 文档，方便开发者查阅、集成到 AI 辅助开发或 VSCode 插件中。
@@ -48,16 +58,6 @@
 ```bash
 pip install requests beautifulsoup4
 ```
-
----
-
-## 📥 获取最新资源
-
-- **所有提示词和文档** 均已放在本仓库，克隆或直接下载即可：
-  ```bash
-  git clone https://github.com/anlerways/Miniworld-3.0API-crawler-for-AI.git
-  ```
-- **可执行文件**：前往 [Releases](https://github.com/anlerways/Miniworld-3.0API-crawler-for-AI/releases) 下载最新版 `crawler.exe`，无需安装 Python。
 
 ---
 
